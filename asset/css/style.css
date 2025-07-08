@@ -1,0 +1,41 @@
+.header {
+	padding-top: 10px
+}
+
+hr {
+	border-width: 2px;
+}
+
+.banner {
+	text-align: center;
+	padding-bottom: 20px
+}
+
+.produk > .col img {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 10px;
+}
+
+.produk > .col .sale, .produk-detail .sale {
+	font-weight: bolder; 
+	font-size: 1.2em;
+}
+
+.produk > .col .ori, .produk-detail .ori {
+	text-decoration: line-through;
+}
+
+.produk > .col .sale-persen, .produk-detail .sale-persen {
+	padding: 5px;
+	background-color: orange;
+	border-radius: 5px;
+}
+
+.produk-detail {
+    margin-top: 20px;
+}
+
+.produk-detail .img-detail {
+    text-align: center;
+}
